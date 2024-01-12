@@ -1,0 +1,90 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+.navbar {
+    background-color: rgb(15, 1, 1);
+    padding: 40px;
+    overflow: hidden;
+}
+
+.navbar a {
+    display: inline;
+    color: #ffffff76;
+    text-align: center;
+    padding: 100px 100px 100px 100px;
+    text-decoration: none;
+}
+
+.navbar a:hover {
+    background-color: #32aa9e;
+    color: rgb(25, 107, 100);
+    
+    
+    
+
+}
+
+
+
+
+
+#image1 {
+    width: 1550px;
+    height: 500px;
+}
+
+#image2 {
+    width: 450px;
+    height: 500px;
+    padding-left: 25px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+#image3 {
+    width: 450px;
+    height: 500px;
+    padding-left: 60px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+
+
+}
+
+
+
+#image4 {
+    width: 450px;
+    height: 500px;
+    padding-left: 60px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+#background1 {
+    background-color: black;
+    width: 1550px;
+    height: 500px;
+
+}
+
+#image5 {
+    float: right;
+    width: 600px;
+
+    padding-right: 200px;
+    padding-top: 50px;
+    padding-left: 25px;
+    padding-bottom: 15px;
+}
+
+p {
+    width: 700px;
+    float: left;
+    padding-bottom: 0px;
+    padding-top: 240px;
+    padding-left: 25px;
+    color: aliceblue;
+}
